@@ -1,4 +1,4 @@
-# Module 3: Markdown
+# Markdown
 
 ## Overview
 Markdown syntax provides a simple way to describe the desired formatting of text documents. In fact, all of the learning modules (including this one you're reading) were written using Markdown! With only a small handful of options, Markdown allows you to provide structure to a document, as well as formatting to your text (like **bold**, or _italics_). There are a number of programs that support the rendering of Markdown, including GitHub, Slack, and StackOverflow (note: the syntax implementation may vary slightly across programs). In this section, you'll learn the basics of Markdown syntax, and how to leverage it.
@@ -56,7 +56,7 @@ In addition to lending structure to your documents, the use of Markdown allows y
 | `**WORD**`	| Bold	|
 | `_WORD_`	| Italics	|
 
-For more thorough lists of Markdown options, see the online [resources](#resources) linked above. To practice your Markdown skills, see [exercise-1](exercise-1) and [exercise-2](exercise-2).
+For more thorough lists of Markdown options, see the online [resources](#resources) linked above. To practice your Markdown skills, see [exercise-1](http://github.com/info474-s17/tree/master/m4-markdown/exercise-1) and [exercise-2](http://github.com/info474-s17/tree/master/m4-markdown/exercise-2).
 
 ## Rendering Markdown
 In order to view the rendered version of your Markdown sytax, you need to use a program that converts from Markdown into a formatted document. Luckily, GitHub will automatically render your `README.md` files, and Slack/StackOverflow will automatically format your messages. However, it can be helpful to preview your rendered markdown before pushing your code. Here are a few options to do so:
